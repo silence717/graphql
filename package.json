@@ -1,0 +1,28 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silence717/graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silence717/graphql/issues"
+  },
+  "homepage": "https://github.com/silence717/graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "express": "^4.18.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.30"
+  }
+}
